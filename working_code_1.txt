@@ -1,0 +1,5 @@
+##print test code
+
+int a
+int b
+printf a+b
