@@ -2,4 +2,7 @@
 
 int a
 int b
-printf a+b
+int c
+printf a+b+c
+
+## 변수 C 추가~
