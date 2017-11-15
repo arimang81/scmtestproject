@@ -2,3 +2,8 @@
 
 char user
 user login
+
+## 게임 설치 관련 로그인 코드 수정
+if gamecode=%a%
+	disable game_start
+end

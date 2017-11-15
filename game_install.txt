@@ -1,0 +1,7 @@
+game_install code
+
+#define game_info
+int gamecode
+char gamename
+char developer
+char publisher
