@@ -7,3 +7,12 @@ user login
 if gamecode=%a%
 	disable game_start
 end
+
+##TESTPRJ-977 버그 수정
+int login_error_code
+
+case
+login_error_code=1
+login_error_code=2
+login_error_code=3
+case end
