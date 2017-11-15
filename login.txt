@@ -25,3 +25,14 @@ login_error_code=0
 login_error_code=1
 login_error_code=2
 case end
+
+##TESTPRJ-978 버그 수정
+code sample 1
+가나다
+alt	del
+	if (case==0)
+			type a
+			type b
+	else
+end
+
