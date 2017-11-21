@@ -1,7 +1,6 @@
 ##print test code
 
-int a
-int b
-printf a+b
-
-## SCM 연동을 위한 코드
+aaaa
+int c
+int d
+printf c+d
