@@ -4,3 +4,6 @@ aaaa
 int c
 int d
 printf c+d
+aaa
+aaa
+aaa
